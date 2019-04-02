@@ -1,4 +1,4 @@
-# Mere_Mortals
+# Project Status
 
 * Core data pulls (GDP, ICD-10, and population) have been made and uploaded to the Core Data Pulls folder.
 
