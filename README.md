@@ -10,4 +10,6 @@
 
 * Created a .csv file (Mortality Cause Code Descriptions) containing Mortality Cause Code, ICD-10 Code(s), and Cause Description from the Mortality dataset documentation (pp. 39-41); located in Core Data Pulls folder
 
+* Created Age Code Description .csv files (for both Population and Mortality); located in Core Data Pulls folder
+
 *Happy exploring!*
