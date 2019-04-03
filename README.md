@@ -6,6 +6,8 @@
 
 * Relevant documentation about datasets and methodologies reside in the Documentation folder; file names are non-descriptive, as they have to be changed.
 
-* Datsets pertaining to correlative factors (i.e., air quality and happiness) can be found in the Correlative Factors folder.
+* Datasets pertaining to correlative factors (i.e., air quality and happiness) can be found in the Correlative Factors folder.
+
+* Created a .csv file (Mortality Cause Code Descriptions) containing Mortality Cause Code, ICD-10 Code(s), and Cause Description from the Mortality dataset documentation (pp. 39-41); located in Core Data Pulls folder
 
 *Happy exploring!*
